@@ -6,9 +6,9 @@
             <table style="width: 100%">
                 <tbody>
                 <tr>
-                    <td style="width: 50%">
+                    <td valign="top" style="width: 90%">
                         <p><span style="font-size: xx-large;"><strong>Sobre a empresa</strong></span></p>
-                        <p>Fundada em 1984, a <strong>Oxigás Lorena</strong> atua a quase quatro décadas, em Lorena e
+                        <p style="text-align: justify; font-size: 1.3em !important; font-family: 'Lucida Grande', Helvetica, Arial, sans-serif !important;">Fundada em 1984, a <strong>Oxigás Lorena</strong> atua a quase quatro décadas, em Lorena e
 demais cidades do Vale do Paraíba e Sul de Minas, fornecendo Gases Industriais e
 Medicinais, Materiais para Solda e Corte, e Equipamentos de Proteção Individual,
 tendo como missão oferecer aos nossos clientes produtos de qualidade, e serviços
@@ -16,7 +16,7 @@ e atendimentos com foco na agilidade e eficiência.</p>
                         <p>&nbsp;</p>
                         
                     </td>
-                    <td style="width: 50%">
+                    <td style="width: 10%">
                         <p><br /><img style="border: 0px;" src="domains/oxigaslorena.com/media/Imagens-Full-red/banner-gas-empresa.png" />&nbsp;</p>
                     </td>
                 </tr>

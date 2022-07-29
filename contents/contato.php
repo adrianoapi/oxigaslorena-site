@@ -7,24 +7,21 @@
                 <tbody>
                 <tr>
                     <td valign="top" style="width: 50%">
-                        <p><strong style="font-size: x-large; line-height: 1.5em;">Fale conosco!</strong></p>
-                        <p><strong>WhatsApp:</strong>&nbsp;<a href="https://wa.me/551231533330" target="_blank">(12) 3153-3330</a><br /></p>
-                        <p><strong>E-mail:</strong>&nbsp<a href="mailto:oxigas.84@gmail.com">oxigas.84@gmail.com</a></p>
-                        <p>Agende sua visita com um de nossos consultores de vendas, para uma melhor negociação.</p>
-                        <p>&nbsp;</p>
-                        <p><span style="font-size: x-large;"><strong>Horário de Funcionamento</strong></span></p>
-                        <p>Segunda a Sexta: 08h às 17:30h <br />(Feriados confirmar expediente)</p>
+                        <p style="font-size: 1.3em !important;"><strong style="font-size: x-large; line-height: 1.3em;">Fale conosco!</strong></p>
+                        <p style="font-size: 1.3em !important;"><strong>WhatsApp:</strong>&nbsp;<a href="https://wa.me/551231533330" target="_blank">(12) 3153-3330</a><br /></p>
+                        <p style="font-size: 1.3em !important;"><strong>E-mail:</strong>&nbsp<a href="mailto:oxigas.84@gmail.com">oxigas.84@gmail.com</a></p>
+                        <p style="font-size: 1.3em !important;">&nbsp;</p>
+                        <p style="font-size: 1.3em !important;"><strong>Horário de Funcionamento</strong></p>
+                        <p style="font-size: 1.3em !important;">Segunda a Sexta: 08:00h às 17:30h <br />(Feriados confirmar expediente)</p>
                         <br />
-                        <p>&nbsp;</p>
+                        <p style="font-size: 1.3em !important;">&nbsp;</p>
                     </td>
                     <td valign="top" style="width: 50%">
-                        <p><span style="line-height: 1.5em; font-size: x-large;"><strong><strong>Localiza&ccedil;&atilde;o:</strong></strong></span></p>
-                        <p><span style="line-height: 1.5em;">
-                        Avenida Targino Vilela Nunes, 899. Bairro Vila Nunes. Lorena, SP <br>CEP.: 12.603-000
-                    </p>
-                        <p><a href="https://goo.gl/maps/x2rUkhAf6KoAHAFH7" target="_blank"><span style="line-height: 1.5em;"><img src="domains/oxigaslorena.com/media/Imagens-Full-red/mapa.jpg" alt="" /><br /></span></a></p>
-                        <p><span style="line-height: 1.5em;">&nbsp;</span></p>
-                        <p>
+                        <p style="font-size: 1.3em !important;"><strong><strong>Localiza&ccedil;&atilde;o:</strong></strong></span></p>
+                        <p style="font-size: 1.3em !important;">Avenida Targino Vilela Nunes, 899. Bairro Vila Nunes. Lorena, SP <br>CEP.: 12.603-000</p>
+                        <p style="font-size: 1.3em !important;"><a href="https://goo.gl/maps/x2rUkhAf6KoAHAFH7" target="_blank"><span style="line-height: 1.3em;"><img src="domains/oxigaslorena.com/media/Imagens-Full-red/mapa.jpg" alt="" /><br /></span></a></p>
+                        <p style="font-size: 1.3em !important;"><span style="line-height: 1.3em;">&nbsp;</span></p>
+                        <p style="font-size: 1.3em !important;">
                     </td>
                 </tr>
                 </tbody>

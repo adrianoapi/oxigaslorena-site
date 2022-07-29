@@ -6,15 +6,15 @@
             <table style="width: 90%">
                 <tbody>
                     <tr>
-                        <td valign="top" style="width: 50%">
+                     <td valign="top" style="width: 90%">
 
-                            <p><span style="font-size: x-large;"><strong>Materiais</strong></span></p>
-                            <p>Nosso catálogo de produtos visa atender as necessidades envolvidas nas
+                            <p><span style="font-size: x-large;"><strong>Produtos</strong></span></p>
+                            <p style="text-align: justify; font-size: 1.3em !important;">Nosso catálogo de produtos visa atender as necessidades envolvidas nas
 atividades de corte e solda, com destaque para reguladores, maçaricos de corte e
 solda, bicos de corte, extensões de solda, eletrodos, arames, mangueiras, máscaras
 de solda e equipamentos de proteção individual e inaloterapia.</p>
                         </td>
-                        <td valign="top" style="width: 50%">
+                        <td valign="top" style="width: 10%">
                         <img style="float: right;margin-right:20px;" src="domains/oxigaslorena.com/media/Imagens-Full-red/banner-gas-materiais.png" />&nbsp;&nbsp;
                         </td>
                     </tr>

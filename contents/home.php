@@ -43,19 +43,18 @@
             
             <p style="color: #000000; font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br /><br /></p>
             <p style="text-align: center;">
-                <span style="color: #333366; font-size: xx-large;">
                 
-          <table style="width: 100%">
+          <table style="width: 95%">
                 <tbody>
                 <tr>
-                    <td valign="top">
-                        <p><span style="font-size: small; color: #be2124;"><strong><span style="font-size: x-large;"><span style="font-size: xx-large;">OXIGÁS LORENA</span></span></strong></span></p>
-                        <p><span style="font-size:;">Desde 1984 fornecendo de gases e materiais de qualidade, serviços e atendimentos com foco na agilidade e eficiência.<br /><br />
+                    <td valign="top" style="width: 36%">
+                        <p><strong><span style="font-size: x-large;"><span style="font-size: x-large;">OXIGÁS LORENA</span></strong></p>
+                        <p style="align:justify; font-size: 1.2em !important;">Desde 1984 fornecendo gases e<br> materiais&nbsp; &nbsp;de &nbsp;qualidade, &nbsp;assim<br> como &nbsp;serviços &nbsp;e &nbsp;atendimentos<br> com foco no &nbsp;respeito, &nbsp;agilidade<br> e eficiência.</p>
                         <a href="./?pagina=empresa"><img style="border: 0px;" src="domains/oxigaslorena.com/media/Imagens-Full-red/btn-more.png" alt="" width="185" height="35" /></a><br /></span></p>
                         <br>
                     </td>
                     <td valign="top">
-                        <img src="./domains/oxigaslorena.com/media/Imagens-Full-red/OXIGAS_03.jpg" width="600px">
+                        <img src="./domains/oxigaslorena.com/media/Imagens-Full-red/OXIGAS_03.jpg" width="550px">
                     </td>
                 </tr>
                 </tbody>

@@ -10,8 +10,8 @@ switch ($pagina) {
     case 'materiais':
         require_once('contents/materiais.php');
         break;
-    case 'servicos':
-        require_once('contents/servicos.php');
+    case 'produtos':
+        require_once('contents/produtos.php');
         break;
     case 'contato':
         require_once('contents/contato.php');

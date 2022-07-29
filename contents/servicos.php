@@ -6,13 +6,13 @@
             <table style="width: 90%">
                 <tbody>
                     <tr>
-                        <td valign="top" style="width: 50%">
+                        <td valign="top" style="width: 90%">
 
                             <p><span style="font-size: x-large;"><strong>Serviços</strong></span></p>
-                            <p>Trabalhamos com a locação de cilindros de gases industriais e medicinais, em
+                            <p style="text-align: justify; font-size: 1.3em !important;">Trabalhamos com a locação de cilindros de gases industriais e medicinais, em
 diferentes capacidades, visando atender às necessidades de nossos clientes.</p>
                         </td>
-                        <td valign="top" style="width: 50%">
+                        <td valign="top" style="width: 10%">
                         <img style="float: right;margin-right:20px;" src="domains/oxigaslorena.com/media/Imagens-Full-red/banner_servicos.png" />&nbsp;&nbsp;
                         </td>
                     </tr>

@@ -21,7 +21,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 :focus {/* remember to define focus styles! */
 	outline: 0;
 }
-body { background: #fff; line-height: 1; }
+body { background: #ddd; line-height: 1; }
 ol, ul { list-style: none; }
 table {/* tables still need 'cellspacing="0"' in the markup */
 	border-collapse: separate;
@@ -56,10 +56,10 @@ u{
 }
 
 body{
-    background-color: #fff;
+    background-color: #ddd;
     color: #656253;
     font-family: Arial,Tahoma,Verdana;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
 }
 
@@ -79,13 +79,13 @@ body{
     margin: 0 auto;
     width: 100%;
     position: relative;
-    background: #333367 center no-repeat;   
+    background: #353363 center no-repeat;   
 }
 
 #header-inner{
     position: relative;
     overflow: hidden;
-    width: 960px;
+    width: 100%;
     margin: 0 auto;
     min-height: 100px;
     background: no-repeat center;
@@ -93,9 +93,14 @@ body{
 
 #logo{
     position: absolute;
-    top: 30px;
-    right: 0px;
+    top: 80px;
+    right: 120px;
     color: #fff;
+}
+
+#logo-dois{
+    top: 55px;
+    position: relative;
 }
 
 #header-text{
@@ -134,7 +139,7 @@ body{
     display: block;
     float: left;
     height: 50px;
-    width: 170px;
+    width: 160px;
 }
 
 #main-menu a{
@@ -312,8 +317,6 @@ h5+h3{ margin-top: -5px !important; }
 ------------------------------------------------------------------------------*/
 
 #footer{
-    background: url(footer-bg.jpg) no-repeat center;
-    min-height: 135px;
 }
 
 #footer-inner{

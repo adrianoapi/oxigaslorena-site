@@ -1,5 +1,10 @@
 <div id="header">
-    <div id="header-inner" style="height:180px; background-image: url(domains/oxigaslorena.com/media/Imagens-Full-red/capasitejuruna.jpg);">
+    <div id="header-inner" style="height:180px;">
+        <div id="logo-dois">
+        <center><img src="domains/oxigaslorena.com/media/Imagens-Full-red/logo-2.jpg"></center>
+        <div id="header-text"></div>
+        <div class="clear"></div>
+    </div>
         <div id="logo">
         <span style="font-weight: bold; font-size:16px;">Entre em contato:</span><br>
         <hr>
