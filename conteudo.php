@@ -13,6 +13,9 @@ switch ($pagina) {
     case 'produtos':
         require_once('contents/produtos.php');
         break;
+    case 'servicos':
+        require_once('contents/servicos.php');
+        break;
     case 'contato':
         require_once('contents/contato.php');
         break;
