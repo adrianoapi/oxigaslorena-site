@@ -1,7 +1,7 @@
 <div id="header">
     <div id="header-inner" style="height:180px;">
         <div id="logo-dois">
-        <center><img src="domains/oxigaslorena.com/media/Imagens-Full-red/logo-2.jpg"></center>
+        <center><img src="domains/oxigaslorena.com/media/Imagens-Full-red/logo-2.jpg" width="300px"></center>
         <div id="header-text"></div>
         <div class="clear"></div>
     </div>
